@@ -6,5 +6,6 @@
 4. Commit changes to development branch
 	git commit -m 'Instruction'
 5. Merge development to main
+	git checkout main
 	git merge development
 6. Push main to origin/main

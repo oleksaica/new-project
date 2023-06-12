@@ -9,3 +9,4 @@
 	git checkout main
 	git merge development
 6. Push main to origin/main
+	git push
